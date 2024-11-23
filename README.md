@@ -1,0 +1,2 @@
+# Adalet
+Hukuka dair herşey.
